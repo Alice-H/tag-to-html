@@ -8,7 +8,5 @@ Mermaids appear in the folklore of <5>many cultures</5> worldwide, including the
 
 ## result:
 
-<pre>
-<span class="1">In folklore</span>, a <span class="2">mermaid</span> is an <span class="3">aquatic</span> creature with the head and upper body of a <span class="4">female human</span> and the tail of a fish.<br>
-Mermaids appear in the folklore of <span class="5">many cultures</span> worldwide, including the <span class="6">Near East</span>, Europe, <span class="7">Asia</span>
-</pre>
+`<span class="1">In folklore</span>, a <span class="2">mermaid</span> is an <span class="3">aquatic</span> creature with the head and upper body of a <span class="4">female human</span> and the tail of a fish.<br>
+Mermaids appear in the folklore of <span class="5">many cultures</span> worldwide, including the <span class="6">Near East</span>, Europe, <span class="7">Asia</span>`
