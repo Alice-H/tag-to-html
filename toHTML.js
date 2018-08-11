@@ -46,7 +46,7 @@ for (i=0; i < newText.length; i++) {
 
 					if (i+1 < k) {
 						autoNum = autoNum + 1;
-						toHtmlText = toHtmlText + ('<spanif class="' + newText.substring(i+1,k) + '">');
+						toHtmlText = toHtmlText + ('<span class="' + newText.substring(i+1,k) + '">');
 						divStart = k+1 ;
 						checkFlag = 0;
 					}
