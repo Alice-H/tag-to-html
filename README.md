@@ -3,7 +3,7 @@ unclosed tag check and transferred to html
 
 ## example:
 
-<1>In folklore</1>, a <2>mermaid<2> is an <3>aquatic<3> creature with the head and upper body of a <4>female human</4> and the tail of a fish.
+<1>In folklore</1>, a <2>mermaid<2> is an <3>aquatic<3> creature with the head and upper body of a <4>female human</4> and the tail of a fish.<br>
 Mermaids appear in the folklore of <5>many cultures</5> worldwide, including the <6>Near East<6>, Europe, <7>Asia</7>, and Africa.
 
 ## result:
